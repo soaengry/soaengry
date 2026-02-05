@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
 </div>
 
-### Backend
+### 📌 Backend
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
@@ -44,4 +44,4 @@
 <br/>
 
 ## ✏️ BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soaeng)](https://solved.ac/https://github.com/soaengry)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soaeng)](https://solved.ac/soaeng)<br/>
