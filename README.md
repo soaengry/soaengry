@@ -43,7 +43,7 @@
 * [츄애니원(Chu Ani One) - 유저들의 선호도를 기반으로 애니메이션을 제공하는 서비스](https://github.com/soaeng/ChuAniOne)
 * [포켓폴리오(Pocket:folio) - 포트폴리오를 3D 공간인 포켓에 전시하고 공유할 수 있는 서비스](https://github.com/soaeng/pocketfolio)
 * [LOVE6202 - 모바일 청첩장](https://github.com/soaengry/love6202)
-* [MOMENT - 웨딩 초대장 및 일 공유 커뮤니티](https://github.com/soaengry/moment)
+* [MOMENT - 웨딩 초대장 및 일정 공유 커뮤니티](https://github.com/soaengry/moment)
 * [GeekYard - 애니메이션 커뮤니티](https://github.com/soaengry/geekyard) 
 
 <br/>
